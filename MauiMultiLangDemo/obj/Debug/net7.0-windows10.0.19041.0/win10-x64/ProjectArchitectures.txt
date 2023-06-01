@@ -1,0 +1,1 @@
+C:\Users\Slim HAMMAMI\source\repos\MauiMultiLangDemo\MauiMultiLangDemo\MauiMultiLangDemo.csproj;x64
